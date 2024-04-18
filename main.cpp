@@ -1,8 +1,11 @@
 #include<iostream>
 #include"trabajador.h"
+
+//hola este es un commit pal github
+
 using namespace std;
 
-int main()
+//int main()
 {
 	int cod;
 	string nombre;
