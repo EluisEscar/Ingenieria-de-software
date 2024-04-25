@@ -12,7 +12,6 @@ using namespace std;
 	int horasT;
 	float tarifaH;
 	int horas;
-	int dinero;
 	
 	
 	cout<<"Ingrese el nombre:";cin>>nombre;
