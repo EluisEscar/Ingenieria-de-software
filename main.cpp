@@ -13,6 +13,7 @@ using namespace std;
 	float tarifaH;
 	int horas;
 	int dinero;
+	float tiempo;
 	
 	
 	cout<<"Ingrese el nombre:";cin>>nombre;
